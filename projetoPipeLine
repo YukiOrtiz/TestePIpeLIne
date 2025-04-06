@@ -1,0 +1,7 @@
+pipeline-simples/
+│
+├── main.py
+├── test_main.py
+└── .github/
+    └── workflows/
+        └── ci.yml
